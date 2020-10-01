@@ -1,3 +1,7 @@
+Very simple project based on a previous practice project with react - this time I applied canvas, hooks for state, useRef
+
+Things I learned: canvas drawing, useRef in practice with canvas
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
